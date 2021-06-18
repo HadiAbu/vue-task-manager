@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "First day task",
+      "day": "March 1nd 2021",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Second day task",
+      "day": "March 2nd 2021",
+      "reminder": true
+    },
+    {
+      "id": 5682,
+      "text": "Monkey",
+      "day": "baddass",
+      "reminder": true
+    },
+    {
+      "id": 3676,
+      "text": "Hola",
+      "day": "Today",
+      "reminder": false
+    }
+  ]
+}
